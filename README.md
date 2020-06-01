@@ -10,3 +10,15 @@ comprises 1,368 primary school children’s oral images with standard diagnostic
 evaluate the effectiveness of our UCDA method.
 
 
+## UCDA
+The proposed UCDA framework is
+composed of a ResNet-FPN based backbone network and
+two task-specific subnetworks, i.e., region regression and
+region classification subnetworks
+
+## Child-OID
+We assembled a children’s oral images
+database consisting of a total of 1,368 multi-view oral im-
+ages from 342 children. Each belongs to one of four standard
+image types: left palate, right palate, left mandible, and right
+mandible.
