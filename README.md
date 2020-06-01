@@ -14,7 +14,7 @@ evaluate the effectiveness of our UCDA method.
 The proposed UCDA framework is
 composed of a ResNet-FPN based backbone network and
 two task-specific subnetworks, i.e., region regression and
-region classification subnetworks
+region classification subnetworks.
 
 ## Child-OID
 We assembled a children’s oral images
