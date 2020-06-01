@@ -1,6 +1,6 @@
 ## A new paradigm in diagnosis of dental caries on the Children’s first permanent molar
 
-Note that: The code and dataset are being sorted out and are coming online.
+Note that: The code and dataset will be released soon.
 
 ## Introduction
  In this paper, we propose a unified caries detection and assessment
