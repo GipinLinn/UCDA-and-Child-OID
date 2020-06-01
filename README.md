@@ -1,4 +1,4 @@
-#A new paradigm in diagnosis of dental caries on the Children’s first permanent molar
+## A new paradigm in diagnosis of dental caries on the Children’s first permanent molar
 
 Note that: The code and dataset are being sorted out and are coming online.
 
